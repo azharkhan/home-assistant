@@ -1,10 +1,14 @@
 [![Build Status](https://travis-ci.org/travis-ci/travis-web.svg?branch=master)](https://travis-ci.org/travis-ci/travis-web)
 
+# Home Automation
+
 Contains all the configuration and automations for my home automation system.
+
+### Credits
 
 Huge thanks for the amazing [Home Assistant](www.home-assistant.io) and the invaluable [BRUH Channel](https://www.youtube.com/channel/UCLecVrux63S6aYiErxdiy4w)
 
-Currently Supported Components:
+### Currently Supported Components:
 
 - [Philips Hue](http://www2.meethue.com/en-US)
 - [ZWave](http://www.z-wave.com)
